@@ -10,7 +10,7 @@
 
 
 <!--MENSAJE-->
-<!--Este codigo tiene varios errores como no mostrar al ganador y no guardar los datos de la seleccion pero no he sido capaz de corregirlos, en cuanto tenga el nivel lo haré.-->
+<!--Este codigo tiene varios errores como no mostrar al ganador y no guardar los datos de la seleccion pero no he sido capaz de corregirlos, en cuanto tenga el nivel lo haré. HOla-->
 <!--MENSAJE-->
 
 
